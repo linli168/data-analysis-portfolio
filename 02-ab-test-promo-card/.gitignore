@@ -1,0 +1,4 @@
+# 完整实验数据可随时重新生成，不入库（仅保留 sample_ab_data.csv 展示结构）
+data/
+__pycache__/
+.mplconfig/

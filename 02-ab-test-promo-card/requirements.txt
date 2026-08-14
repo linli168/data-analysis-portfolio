@@ -1,0 +1,5 @@
+# A/B 实验分析项目依赖
+pandas
+numpy
+scipy
+matplotlib

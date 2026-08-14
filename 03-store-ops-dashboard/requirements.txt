@@ -1,0 +1,5 @@
+# 餐饮门店经营诊断看板依赖
+pandas
+numpy
+matplotlib
+openpyxl
