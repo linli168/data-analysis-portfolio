@@ -1,0 +1,12 @@
+# 北京餐饮大数据预处理项目依赖
+pandas
+numpy
+scipy
+scikit-learn
+statsmodels
+matplotlib
+seaborn
+jieba
+snownlp
+xgboost
+openpyxl
